@@ -20,7 +20,6 @@ Zie ter referentie de onderstaande afbeelding:
 ![Microsoft Cloud Adoption Framework for Azure](https://github.com/Jaspervanvulpen/Governance-Framework/blob/main/Microsoft%20Cloud%20Adoption%20Framework%20for%20Azure.png)
 
  
-# Microsoft Cloud Adoption Framework voor Azure
 
 Het framework omvat een reeks specifieke hulpmiddelen en sjablonen voor elke fase van de cloudadoptie:
 
